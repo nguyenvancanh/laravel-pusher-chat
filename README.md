@@ -571,4 +571,4 @@ php artisan serve
 
 ```
 
-R
+Rồi tr
